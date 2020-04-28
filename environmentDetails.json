@@ -1,0 +1,6 @@
+{
+  "AUTH_URL": "https://restful-booker.herokuapp.com/auth",
+  "HOST_NAME": "https://restful-booker.herokuapp.com/",
+  "USER_NAME": "admin",
+  "PASSWORD": "password123"
+}
