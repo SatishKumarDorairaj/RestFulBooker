@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="6856" started-at="2020-04-28T13:55:08Z" finished-at="2020-04-28T13:55:15Z">
+    <groups>
+    </groups>
+    <test name="Restfulbooker" duration-ms="6856" started-at="2020-04-28T13:55:08Z" finished-at="2020-04-28T13:55:15Z">
+      <class name="com.herokuapp.restful.booker.here.testScripts.BookingTestScripts">
+        <test-method status="PASS" signature="createBooking()[pri:0, instance:com.herokuapp.restful.booker.here.testScripts.BookingTestScripts@6105f8a3]" name="createBooking" duration-ms="1217" started-at="2020-04-28T13:55:08Z" finished-at="2020-04-28T13:55:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBooking -->
+        <test-method status="PASS" signature="assertBookingUsingBookingId()[pri:1, instance:com.herokuapp.restful.booker.here.testScripts.BookingTestScripts@6105f8a3]" name="assertBookingUsingBookingId" duration-ms="1551" started-at="2020-04-28T13:55:09Z" finished-at="2020-04-28T13:55:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertBookingUsingBookingId -->
+        <test-method status="PASS" signature="updateCompleteBooking()[pri:2, instance:com.herokuapp.restful.booker.here.testScripts.BookingTestScripts@6105f8a3]" name="updateCompleteBooking" duration-ms="1496" started-at="2020-04-28T13:55:11Z" finished-at="2020-04-28T13:55:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateCompleteBooking -->
+        <test-method status="PASS" signature="partialUpdatebooking()[pri:3, instance:com.herokuapp.restful.booker.here.testScripts.BookingTestScripts@6105f8a3]" name="partialUpdatebooking" duration-ms="2568" started-at="2020-04-28T13:55:12Z" finished-at="2020-04-28T13:55:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- partialUpdatebooking -->
+      </class> <!-- com.herokuapp.restful.booker.here.testScripts.BookingTestScripts -->
+    </test> <!-- Restfulbooker -->
+  </suite> <!-- Default Suite -->
+</testng-results>
